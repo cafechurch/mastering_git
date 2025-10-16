@@ -1,2 +1,2 @@
-console.log('Welcome to Git');
+console.log('Hello, this is a new message, Welcome to Git');
 
